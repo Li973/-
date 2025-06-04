@@ -1,0 +1,14 @@
+a = 5;
+b = a + 3;
+
+if (b > 8) {
+    print("Greater than 8");
+} else {
+    print("Less or equal to 8");
+}
+
+i = 0;
+while (i < 3) {
+    print("Looping...");
+    i = i + 1;
+}
